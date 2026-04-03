@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/admin/OneDrive/Desktop/ML-monitor-project/mlruns/1/models/m-ce84135d69dd4b31a1e4e1f5daa6b0cc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-ce84135d69dd4b31a1e4e1f5daa6b0cc
+model_size_bytes: 165857
+model_uuid: m-ce84135d69dd4b31a1e4e1f5daa6b0cc
+prompts: null
+run_id: 0f4617b3b9884fb495ae3ace5fb04e8b
+utc_time_created: '2026-04-03 13:05:14.152390'
