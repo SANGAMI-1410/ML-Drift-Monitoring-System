@@ -1,0 +1,25 @@
+{
+  "drift_detected": true,
+  "features": {
+    "sepal length (cm)": {
+      "ks_statistic": 0.8067,
+      "p_value": 0.0,
+      "drift_detected": true
+    },
+    "sepal width (cm)": {
+      "ks_statistic": 0.8967,
+      "p_value": 0.0,
+      "drift_detected": true
+    },
+    "petal length (cm)": {
+      "ks_statistic": 0.7333,
+      "p_value": 0.0,
+      "drift_detected": true
+    },
+    "petal width (cm)": {
+      "ks_statistic": 0.8067,
+      "p_value": 0.0,
+      "drift_detected": true
+    }
+  }
+}
