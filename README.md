@@ -2,7 +2,7 @@
 
 A production-ready ML system that trains a model, serves predictions via a REST API, and automatically monitors for data drift in real time.
 
-**Live Dashboard:** [Coming soon — Streamlit Cloud deployment]
+Live Dashboard: [Open Streamlit App](https://ml-monitor-project-ackexksdavwx4iyexh6jyx.streamlit.app)
 
 ---
 
