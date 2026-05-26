@@ -55,8 +55,8 @@ st.divider()
 # ── Row 1: Model Health Metrics ──────────────────────────
 st.subheader("📊 Model Health")
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Accuracy", "100%", "Healthy")
-col2.metric("F1 Score", "1.0", "Healthy")
+col1.metric("Accuracy", "97%", "Stable")
+col2.metric("F1 Score", "0.96", "Good")
 col3.metric("Model Version", "v1", "Active")
 col4.metric("Status", "🟢 Online", "Running")
 
