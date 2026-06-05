@@ -6,7 +6,7 @@ Live Dashboard: [Open Streamlit App](https://ml-monitor-project-ackexksdavwx4iye
 
 ## Dashboard Preview
 
-![ML Monitor Dashboard](dashboard-preview.png) 
+![ML Monitor Dashboard](dashboard-preview.jpeg) 
 
 ---
 
