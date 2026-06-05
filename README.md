@@ -5,9 +5,13 @@ A production-ready ML system that trains a model, serves predictions via a REST 
 Live Dashboard: [Open Streamlit App](https://ml-monitor-project-ackexksdavwx4iyexh6jyx.streamlit.app) 
 
 ## Dashboard Preview
-
 ![ML Monitor Dashboard](dashboard-preview.jpeg) 
 
+### Live Prediction
+![Live Prediction](live-prediction.jpeg)
+
+### Drift Detection
+![Drift Detection](drift-detection.jpeg) 
 ---
 
 ## The Problem This Solves
